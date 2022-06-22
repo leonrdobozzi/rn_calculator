@@ -1,4 +1,4 @@
-# Calculadora React Native
+# React Native Calculator
 
 A simple React Native project to study class component and apply concepts of state and conditional logic.
 
